@@ -39,6 +39,7 @@ Specific options:
 
 Common options:
     -h, --help                       Show this message
+    -v, --[no-]verbose               Show debug logs instead of info
 ```
 
 ## Running on Marathon
